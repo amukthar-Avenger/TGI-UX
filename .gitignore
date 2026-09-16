@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.local
+TGI
+*.pem
+*.key
+*.p12
+*.pfx
+.DS_Store
+Thumbs.db
+*.log
+*.tsbuildinfo
